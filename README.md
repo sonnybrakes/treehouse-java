@@ -6,3 +6,5 @@
   * Receiving Input
 2. Using your New tools
   * Multiple Strings
+  * Errors
+  * Coding the Prototype

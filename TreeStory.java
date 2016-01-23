@@ -11,8 +11,15 @@ public class TreeStory {
         adjective - A description used to modify or describe a noun
         Enter your amazing code here
       */
-      String name = console.readLine("Enter your name:  ");
+      // __Name__ is a __adjective__ __noun__. __adverb__ __verb__.
+      String name = console.readLine("Enter a name:  ");
       String adjective = console.readLine("Enter an adjective:  ");
-      console.printf("%s is very %s\n", name, adjective);
+      String noun = console.readLine("Enter a noun:  ");
+      String adverb = console.readLine("Enter an adverb:  ");
+      String verb = console.readLine("Enter a verb ending in -ing:  ");
+
+      console.printf("Your Treehouse Story:\n---------------------\n");
+      console.printf("%s is an %s %s.  ", name, adjective, noun);
+      console.printf("He is always %s %s.  \n", adverb, verb);
   }
 }
