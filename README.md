@@ -10,4 +10,5 @@
   * Coding the Prototype
 3. Perfecting our Prototype
   * Reviewing Our Feedback
-  * Parsing Integers
+  * Parsing Integer
+  * Censoring Words - Using String Equality
