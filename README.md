@@ -12,3 +12,4 @@
   * Reviewing Our Feedback
   * Parsing Integer
   * Censoring Words - Using String Equality
+  * Censoring Words - Using Logical ORs
