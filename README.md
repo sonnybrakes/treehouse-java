@@ -8,3 +8,5 @@
   * Multiple Strings
   * Errors
   * Coding the Prototype
+3. Perfecting our Prototype
+  * Reviewing Our Feedback
